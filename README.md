@@ -8,7 +8,7 @@ ___
 
 ## 💻 Desafio
 
-Uma aplicação criada para treinar os conceitos de React  criando um hook de carrinho de compras.
+Uma aplicação de um hook de carrinho de compras.
 
 Foi desenvolvida com o objetivo de treinar todos os conceitos do React aprendidos até então, como **manipulação de estado** com **useState**, hooks como o **useEffect**, trabalhar com contextos através do **useContext** e persistir dados através do local storage.
 
@@ -45,9 +45,9 @@ $ cd rocketshoes
 $ yarn
 
 # Run the project
-$ yarn dev
+$ yarn start
 
-# The server will initialize in the <http://localhost:8080>
+# The server will initialize in the <http://localhost:3000>
 ```
 
 <div align="center">
