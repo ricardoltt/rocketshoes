@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Validação de estoque;
 - Exibição de mensagens de erro;
 
-![vídeo tela](https://github.com/ricardoltt/rocketshoes/blob/main/.github/gif-site.gif)
+![vídeo tela](https://github.com/ricardoltt/rocketshoes/blob/master/.github/gif-site.gif)
 
 ```bash
 # Clone this project
