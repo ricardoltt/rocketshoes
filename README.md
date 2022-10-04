@@ -34,6 +34,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ![vídeo tela](https://github.com/ricardoltt/rocketshoes/blob/master/.github/gif-site.gif)
 
+## :white_check_mark: Requerimentos
+
+- [Node](https://nodejs.org/en/)
+- [Yarn](https://yarnpkg.com/lang/en/)
+
+## :checkered_flag: Começando
+
 ```bash
 # Clone this project
 $ git clone https://github.com/ricardoltt/rocketshoes
